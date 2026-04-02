@@ -1,0 +1,5 @@
+{
+  "name": "research-assistant",
+  "description": "A research assistant agent",
+  "skills": ["test-skill"]
+}
